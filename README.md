@@ -18,9 +18,9 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 ## **Captura de Pantalla 📸**
 
-![Captura de Pantalla antes de iniciar el juego](assets/Pantalla antes de inciar el juego.png)
+![Captura de Pantalla antes de iniciar el juego](assets/Pantalla%20antes%20de%20inciar%20el%20juego.png)
 
-![Captura de Pantalla después de iniciar el juego](assets/Pantalla después de iniciado el juego.png)
+![Captura de Pantalla después de iniciar el juego](assets/Pantalla%20después%20de%20iniciado%20el%20juego.png)
 
 Puedes añadir una captura de pantalla de la aplicación aquí para mostrar cómo se ve en funcionamiento.
 
