@@ -1,6 +1,6 @@
 # Challege-Sorteo-Amigo-Secreto 🎉
 
-![Captura de Pantalla antes de iniciar el juego](assets/Amigo%20Secreto%20.png)
+![Amigo-Secreto](assets/Amigo-Secreto%20.png)
 
 
 
