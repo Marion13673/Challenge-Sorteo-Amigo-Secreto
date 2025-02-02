@@ -1,6 +1,12 @@
-# Challege-Amigo-Secreto 🎉
+# Challege-Sorteo-Amigo-Secreto 🎉
 
-**¡Bienvenido al Juego Challege-Amigo-Secreto!**
+![Captura de Pantalla antes de iniciar el juego](assets/Amigo%20Secreto%20.png)
+
+
+
+
+
+**¡Bienvenido al Juego Challege-Sorteo-Amigo-Secreto!**
 
 Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y JavaScript. Permite a los usuarios ingresar nombres de amigos y realizar un sorteo para asignarles un amigo secreto.
 
@@ -14,7 +20,7 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 1. **Agregar un amigo**: Escribe el nombre de un amigo en el campo de entrada y haz clic en el botón "Añadir".
     Si no digita un nombre y hace click en el botón "añadir" aparecerá un aviso en pantalla con un mensaje: "Por favor, ingrese un nombre válido"
-2. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al menos un amigo para realizar el sorteo
+2. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al         menos un amigo para realizar el sorteo
 
 ## **Captura de Pantalla 📸**
 
@@ -22,7 +28,6 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 ![Captura de Pantalla después de iniciar el juego](assets/Pantalla%20después%20de%20iniciado%20el%20juego.png)
 
-Puedes añadir una captura de pantalla de la aplicación aquí para mostrar cómo se ve en funcionamiento.
 
 ## **Archivos del Proyecto 📂**
 
