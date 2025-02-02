@@ -1,6 +1,6 @@
 # Challege-Sorteo-Amigo-Secreto 🎉
 
-![Amigo-Secreto](assets/Amigo-Secreto%20.png)
+![amigo-secreto](assets/amigo-secreto.png)
 
 
 
