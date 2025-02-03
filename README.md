@@ -1,12 +1,19 @@
-# Challege-Sorteo-Amigo-Secreto 🎉
+## Challege-Sorteo-Amigo-Secreto 🎉
 
 ![amigo-secreto](assets/amigo-secreto.png)
 
 
-
-
-
 **¡Bienvenido al Juego Challege-Sorteo-Amigo-Secreto!**
+
+<h2 align="center"><strong>Challege-Sorteo-Amigo-Secreto 🎉</strong></h2>
+
+<p align="center">
+  <img src="assets/amigo-secreto.png" alt="amigo-secreto">
+</p>
+
+<p align="center"><strong>¡Bienvenido al Juego Challege-Sorteo-Amigo-Secreto!</strong></p>
+
+
 
 Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y JavaScript. Permite a los usuarios ingresar nombres de amigos y realizar un sorteo para asignarles un amigo secreto.
 
