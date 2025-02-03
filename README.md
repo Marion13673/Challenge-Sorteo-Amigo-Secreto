@@ -8,7 +8,7 @@
 
 
 
-Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y JavaScript. Permite a los usuarios ingresar nombres de amigos y realizar un sorteo para asignarles un amigo secreto.
+Es una aplicación de sorteo que permite a los usuarios ingresar nombres de amigos en una lista, para luego realizar un sorteo aleatorio y determinar quién es el amigo secreto. El proyecto está realizado con HTML, CSS y JavaScript. 
 
 ## **Características ✨**
 
@@ -18,9 +18,10 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 ## **Uso 🛠️**
 
-1. **Agregar un amigo**: Escribe el nombre de un amigo en el campo de entrada y haz clic en el botón "Añadir".
-    Si no digita un nombre y hace click en el botón "añadir" aparecerá un aviso en pantalla con un mensaje: "Por favor, ingrese un nombre válido"
-2. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al         menos un amigo para realizar el sorteo
+1. **Agregar un amigo**: Escribe el nombre de un amigo en el campo de texto y haz clic en el botón "Añadir".
+2. **Validar entrada**: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido. 
+2. **Visualizar la lista**: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.     
+3. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar el cual se mostrará en la página. Se necesita al menos un amigo para realizar el sorteo.
 
 ## **Captura de Pantalla 📸**
 
