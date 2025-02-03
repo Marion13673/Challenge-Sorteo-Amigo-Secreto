@@ -1,10 +1,3 @@
-## Challege-Sorteo-Amigo-Secreto 🎉
-
-![amigo-secreto](assets/amigo-secreto.png)
-
-
-**¡Bienvenido al Juego Challege-Sorteo-Amigo-Secreto!**
-
 <h2 align="center"><strong>Challege-Sorteo-Amigo-Secreto 🎉</strong></h2>
 
 <p align="center">
